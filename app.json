@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ToDo_List",
-    "slug": "ToDo_List",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "11736dd6-7635-4e02-bd6c-edbe289950dc"
+      }
+    },
+    "owner": "abdullahaa6482",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/11736dd6-7635-4e02-bd6c-edbe289950dc"
     }
   }
 }
